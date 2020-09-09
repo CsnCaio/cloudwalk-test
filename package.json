@@ -1,0 +1,20 @@
+{
+  "name": "cloudwalk_sw-engineer_test",
+  "version": "1.0.0",
+  "description": "Testing my Code Skills to a Software Engineer test in CloudWalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 100000"
+  },
+  "author": "Caio Salgado Nepomuceno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.1.3",
+    "should": "^13.2.3"
+  }
+}
